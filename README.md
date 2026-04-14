@@ -1,5 +1,5 @@
 # Muhsinov-Iliakis_Frontiers2026
-MATLAB scripts used to generate all analyses, Figures 2-4, and Supplemental Figures in Muhsinov et al. (2026) published in Frontiers in Cellular Neuroscience (doi: 10.3389/fncel.2026.1795921/).
+MATLAB scripts used to generate all analyses, Figures 2-4, and Supplemental Figures in Muhsinov et al. (2026) published in Frontiers in Cellular Neuroscience (doi: 10.3389/fncel.2026.1795921/). For questions, please contact Marc Fuccillo at fuccillo@pennmedicine.upenn.edu.
 
 
 ## Scripts
@@ -21,5 +21,5 @@ This is the caudoputamen mask from Allen CCFv3.
 **Ventricle_Mask.nrrd**
 This is the ventricle mask from Allen CCFv3, this was used to exclude periventricular PV+ ependymal cells. 
 
-For questions, please contact Marc Fuccillo at fuccillo@pennmedicine.upenn.edu.
+
 
